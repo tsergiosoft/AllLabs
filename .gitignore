@@ -8,8 +8,8 @@
 *.pyc
 
 ;;directories to ignore
-Lab2/
+#Lab2/
 #.idea/
-#/.idea/
+
 #venv/
 __pycashe__/
