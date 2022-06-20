@@ -1,5 +1,6 @@
 ;;files to ignore
 settings.py
+main.py
 
 ;;extensions to ignore
 *.log
@@ -7,6 +8,7 @@ settings.py
 *.pyc
 
 ;;directories to ignore
+/Lab1
 .idea/
 /.idea/
 venv/
