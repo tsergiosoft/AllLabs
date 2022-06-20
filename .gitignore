@@ -8,3 +8,5 @@ settings.py
 
 ;;directories to ignore
 .idea/
+venv/
+__pycashe__/
