@@ -1,0 +1,15 @@
+;;files to ignore
+#settings.py
+#main.py
+
+;;extensions to ignore
+*.log
+*.pot
+*.pyc
+
+;;directories to ignore
+#Lab1/
+#.idea/
+#/.idea/
+#venv/
+__pycashe__/
