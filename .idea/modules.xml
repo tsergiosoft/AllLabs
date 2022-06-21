@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AllLabs.iml" filepath="$PROJECT_DIR$/.idea/AllLabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mastering-Python-Design-Patterns-Second-Edition/.idea/Mastering-Python-Design-Patterns-Second-Edition.iml" filepath="$PROJECT_DIR$/../Mastering-Python-Design-Patterns-Second-Edition/.idea/Mastering-Python-Design-Patterns-Second-Edition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/.idea/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/.idea/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Applications/.idea/Python_Applications.iml" filepath="$PROJECT_DIR$/../Python_Applications/.idea/Python_Applications.iml" />
     </modules>
   </component>
 </project>
